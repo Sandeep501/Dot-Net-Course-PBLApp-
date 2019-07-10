@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\sandeep\Calculater\Calculater\bin\Debug\Calculater.exe.config
+C:\Users\Administrator\Desktop\sandeep\Calculater\Calculater\bin\Debug\Calculater.exe
+C:\Users\Administrator\Desktop\sandeep\Calculater\Calculater\bin\Debug\Calculater.pdb
+C:\Users\Administrator\Desktop\sandeep\Calculater\Calculater\obj\Debug\Calculater.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\sandeep\Calculater\Calculater\obj\Debug\Calculater.Calculater.resources
+C:\Users\Administrator\Desktop\sandeep\Calculater\Calculater\obj\Debug\Calculater.Properties.Resources.resources
+C:\Users\Administrator\Desktop\sandeep\Calculater\Calculater\obj\Debug\Calculater.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\sandeep\Calculater\Calculater\obj\Debug\Calculater.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sandeep\Calculater\Calculater\obj\Debug\Calculater.exe
+C:\Users\Administrator\Desktop\sandeep\Calculater\Calculater\obj\Debug\Calculater.pdb
